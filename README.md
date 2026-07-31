@@ -2,7 +2,7 @@
 > Операционная Система на основе PowerPoint (2024). Это трудно назвать полноценной системой, но возможно скоро проект станет полноценной графической оболочкой в виде `.exe` файла!
 
 <a href="https://drive.google.com/drive/folders/1Ny-0ZSp0z1u96j_jwGNfinnpD4AWd3as" target="_blank">
-  <img src="./images/main.png" width="100%" alt="Главный экран ГлавнаяОС — Нажмите, чтобы открыть визуализацию установки" />
+  <img src="./images/main.png" width="100%" alt="Главный экран ГлавнаяОС — Нажмите, перейти сразу к скачиванию" />
 </a>
 
 ---
@@ -22,9 +22,8 @@
 
 ## 🛠️ Модифицируйте и кастомизируйте!
 Модифицируйте систему под себя: создавайте уникальные моды, визуальные стили и свои собственные фишки!
-
 <a href="https://drive.google.com/drive/folders/1OxkTPfXkHCEdbCfiKLWK-rATnWo0mQZf" target="_blank">
-  <img src="./images/devsApp.png" width="100%" alt="Разработка модов — Нажмите, чтобы открыть Доступные Модификации" />
+  <img src="./images/dev.png" width="100%" alt="Разработка" />
 </a>
 
 ➡️ **[Смотреть доступные модификации](https://drive.google.com/drive/folders/1OxkTPfXkHCEdbCfiKLWK-rATnWo0mQZf)**
